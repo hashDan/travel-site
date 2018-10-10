@@ -1,0 +1,22 @@
+{
+  "name": "travel_site",
+  "version": "1.0.0",
+  "description": "Simple travel site to learn the modern web-developer work flow ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashDan/travel-site.git"
+  },
+  "author": "hashDan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hashDan/travel-site/issues"
+  },
+  "homepage": "https://github.com/hashDan/travel-site#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
